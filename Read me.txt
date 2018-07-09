@@ -1,0 +1,2 @@
+bank-full.csv Data Set
+big_final.ipynb jupyter file for repeating the process
